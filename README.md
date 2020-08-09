@@ -1,4 +1,4 @@
-# databox
+# vue2-cli
 
 ## Project setup
 ```
